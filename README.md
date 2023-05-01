@@ -8,7 +8,7 @@ When the website is viewed on a phones screen. The navigation bar disappears and
 
 LOGIN/SIGNUP
 
-I have added a login?signup page completely ready in this same page.
+I have added a login?signup page completely ready in this same page.I have added a javascript here to toggle between signup and login.
 
 FURTHER PLANS
 
