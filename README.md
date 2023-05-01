@@ -12,4 +12,4 @@ I have added a login?signup page completely ready in this same page.I have added
 
 FURTHER PLANS
 
-soon i will be adding prduct page and add backend to the website with database for the user data  and data authentication system for the login page.I have to  responsiveness to the body of the page too.
+soon i will be adding prduct page and add backend to the website with database for the user data  and data authentication system for the login page.
