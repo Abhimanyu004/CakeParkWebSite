@@ -4,7 +4,7 @@ I have made this website "Cake Park" using primarly HTML, CSS and Javascript and
 
 RESPONSIVE ELEMENTS
 
-When the website is viewed on a phones screen. The navigation bar disappears and a new bar icon will appear. clicking this will change the icon to X and forth. I have used javascript in this part.
+When the website is viewed on a phones screen. The navigation bar disappears and a new bar icon will appear. clicking this will change the icon to X and forth. I have used javascript in this part. The contents of the website will be adjusted accordingly.
 
 LOGIN/SIGNUP
 
