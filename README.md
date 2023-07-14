@@ -1,6 +1,6 @@
 # Cake Park Website
 
-![Cake Park Logo](logo.png)
+![Cake Park Logo](screenshots/logo.png)
 
 Welcome to the Cake Park website repository! This repository contains the source code and assets for the Cake Park website, an online platform to explore and order delicious cakes and pastries. The website features a responsive navbar, a homepage showcasing various cake offerings, and a login page for user authentication.
 
